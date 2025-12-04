@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "ANTENNA",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2025-12-04T14:44:37.064511Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Antenna",
+      "artist": "Kraftwerk",
+      "has_synced": true,
+      "path": "select/01_Antenna_Kraftwerk.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Antenna (3-D)",
+      "artist": "Kraftwerk",
+      "has_synced": true,
+      "path": "select/02_Antenna_(3-D)_Kraftwerk.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Antenna",
+      "artist": "Sonic Youth",
+      "has_synced": true,
+      "path": "select/03_Antenna_Sonic_Youth.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Antenna",
+      "artist": "The Acorn",
+      "has_synced": true,
+      "path": "select/04_Antenna_The_Acorn.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Antenna Head",
+      "artist": "ZZ Top",
+      "has_synced": true,
+      "path": "select/05_Antenna_Head_ZZ_Top.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Antenna - 2009 Remaster",
+      "artist": "Kraftwerk",
+      "has_synced": true,
+      "path": "select/06_Antenna_-_2009_Remaster_Kraftwerk.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Antenna (iTunes Session)",
+      "artist": "Sonic Youth",
+      "has_synced": false,
+      "path": "select/07_Antenna_(iTunes_Session)_Sonic_Youth.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Antenna",
+      "artist": "Fuse ODG",
+      "has_synced": true,
+      "path": "select/08_Antenna_Fuse_ODG.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Antenna (UK Radio Edit)",
+      "artist": "Fuse ODG",
+      "has_synced": true,
+      "path": "select/09_Antenna_(UK_Radio_Edit)_Fuse_ODG.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Antenna - UK Radio Edit",
+      "artist": "Fuse ODG",
+      "has_synced": true,
+      "path": "select/10_Antenna_-_UK_Radio_Edit_Fuse_ODG.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Fuse Odg - Antenna",
+      "artist": "Fuse Odg",
+      "has_synced": true,
+      "path": "select/11_Fuse_Odg_-_Antenna_Fuse_Odg.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Antenna",
+      "artist": "The Church",
+      "has_synced": false,
+      "path": "select/12_Antenna_The_Church.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Antenna (Acoustic)",
+      "artist": "The Church",
+      "has_synced": true,
+      "path": "select/13_Antenna_(Acoustic)_The_Church.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ANTENNA",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_ANTENNA_Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
