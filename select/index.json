@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "ANTENNA",
   "base_artist": "Mrs. GREEN APPLE",
-  "createdAt": "2025-12-04T14:44:37.064511Z",
+  "createdAt": "2026-03-19T02:10:00.118643Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -115,6 +115,24 @@
       "artist": "Mrs. GREEN APPLE",
       "has_synced": false,
       "path": "select/pl_01_ANTENNA_Mrs._GREEN_APPLE.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "ANTENNA",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/localdb_01_ANTENNA_Mrs._GREEN_APPLE.txt",
+      "repo_name": "XiSa_VIrGKE"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "ANTENNA",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/localdb_02_ANTENNA_Mrs._GREEN_APPLE.lrc",
+      "repo_name": "c7nQWSHw4jo"
     }
   ]
 }
